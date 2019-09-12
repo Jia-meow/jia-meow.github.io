@@ -1,5 +1,5 @@
 ## About Me
-![photo](./0.jpg)
+![photo](./2.png)
 
 Jiajia Wu
 

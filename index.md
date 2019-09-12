@@ -1,13 +1,20 @@
 ## About Me
 ![photo](./0.jpg)
 
-Jiajia Wu    
-PHD Candiate\
-Biomedical Engineering\
+Jiajia Wu
 
+PHD Candiate
+
+Biomedical Engineering
 
 Northwestern University
 
+
+
+## TECH STACK
+- Matlab
+
+## Education Background
 
 **Northwestern University**  
 PHD in BME         
@@ -15,40 +22,40 @@ PHD in BME
 ```  ̄\_(ツ)_/ ̄ which is more promising ```
 
 **MSU**  
-B.S. in EE  
+Bachelor in Electrical Engineering, Biomedical Concentration\
+Honors College Member\
+Minor in Cognitive Science\
+GPA 3.7/4.0
 
-## TECH STACK
-- Matlab
+## Technical Skills
 
-## Education Background
+**Electronics & Computer Lab**
+
+* Analog & Digital Circuit Design, AutoCAD, NX CAD & 3D printing, G-Codes & Robotics, PLC design, PSPICE, VHDL, Cadence Virtuoso (IC, VLSI), Keil, Eagle (PCB design), MATLAB, C Programming, Sentaurus Workbench, COMSOL Multiphysics, LabVIEW
+
+**Biology Lab**
+
+* SDS-PAGE and Bradford for Proteins, Acidic Iodine and Benedict for Carbohydrates, Plate Techniques, Gel Electrophoresis, PCR, Restriction Enzyme Digestions
+
+**Organic Chemistry Lab**
+
+* Synthesis of Methyl 3-Nitrobenzoate, Azo Dyes, Aspirin, Soap, Isolation of Active Drug, Derivatization
+
+
+## Publications
+
+[**Characteristics of Transparent, PEDOT:PSS Coated Indium-Tin-Oxide (ITO) Microelectrodes**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Characteristics%20of%20Transparent%20PEDOTPSS%20Coated%20ITO%20Microelectrodes.pdf)
+[**Single-channel Opto-neurostimulator: A Review**]()
+[**Highly Conductive, Transparent, and Anti-reflective PEDOT:PSS/ITO/Ag/ITO on Rarylene-C with Tunable Peak Transmittance**]()
+[**Transparent and Ultra-flexible PEDOT:PSS/ITO/Ag/ITO on Parylene Thin Films with Tunable Properties**]()
+[**Wireless, Passive Strain Sensor in A Doughnut-shaped Contact Lens for Continuous Non-invasive Self-monitoring of Intraocular Pressure**]()
 
 ## Work EXPERIENCE
 
+**Optogenetic probes**
 
-[**ECE280 Electrical Engineering Analysis**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/ECE280-syllabus-FS17-001.pdf)                                                                                               
-Teaching Assistant
-Spring 2019
+![photo](./opto-probe1.jpg) ![photo](./opto-probe2.jpg)
 
-* Assisted students with MATLAB Problems
-
-* Answered the homework and exam questions during office hour or via email
-
-[**ECE Main Office faculty**]
-
-
-[**JD.COM INC.**](http://x.jdwl.com/drone/index)    
-Software Engineering Intern in JD X – An innovation lab for unmanned packages delivery 
-Beijing, 2016
-         
-* Co-designed a scalable monitor system for large number of drones using Spark Streaming
-
-* Visualized location and status which was used for a demo in JD drone controlling center
-
-## LABRATORY PROJECTS
-
-[**QALite**](https://github.com/zw2497/QAlite)     
-Full-stack Web Application, Cloud Computing    
-Columbia, 2018      
 
 * Designed a Q&A platform like Piazza with scalable Microservices Architecture
 
@@ -103,3 +110,29 @@ In my country, the surname is placed first, followed by the given name.
 
 ## IN-CLASS PROJECTS
 
+
+
+
+## Activities
+
+**Teaching Assistant Fall 2017**
+
+[ECE280 Electrical Engineering Analysis](https://github.com/Jia-meow/jia-meow.github.io/raw/master/ECE280-syllabus-FS17-001.pdf)                                                                                               
+
+* Assisted students with MATLAB Problems
+
+* Answered the homework and exam questions during office hour or via email
+
+**ECE Main Office faculty**
+
+* Managed keys of the study rooms
+
+* Answered the common questions that ECE students have
+
+* Organized the feedback documents from classes
+
+**Campus Animal Resources**
+
+* Fed and controled weight of experimental rodents
+
+* Trained animals to respond to the light

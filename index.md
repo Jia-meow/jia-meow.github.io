@@ -10,10 +10,6 @@ Biomedical Engineering
 Northwestern University
 
 
-
-## TECH STACK
-- Matlab
-
 ## Education Background
 
 **Northwestern University**  
@@ -58,9 +54,7 @@ GPA 3.7/4.0
 
 **Optogenetic probes**
 
-![photo](./opto-probe1.jpg)
-
-![photo](./opto-probe2.jpg)
+![photo](./opto-probe1.jpg)  ![photo](./opto-probe2.jpg)
 
 
 * Designed a Q&A platform like Piazza with scalable Microservices Architecture

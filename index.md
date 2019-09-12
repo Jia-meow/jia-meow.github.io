@@ -1,5 +1,5 @@
 ## About Me
-![photo](./2.PNG)
+![photo](./0.jpg)
 
 Jiajia Wu    
 PHD Candiate\
@@ -20,20 +20,20 @@ B.S. in EE
 ## TECH STACK
 - Matlab
 
-## PROFESSIONAL EXPERIENCE
+## Education Background
+
+## Work EXPERIENCE
 
 
-[**CS W4111: INTRODUCTION TO DATABASES**](http://w4111.github.io)                                                                                               
+[**ECE280 Electrical Engineering Analysis**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/ECE280-syllabus-FS17-001.pdf)                                                                                               
 Teaching Assistant
 Spring 2019
 
-* Mentored students in designing Relational Database
+* Assisted students with MATLAB Problems
 
-* Designed tutorials about building back end using Postgres and Flask      
+* Answered the homework and exam questions during office hour or via email
 
-* Designed social network graph analysis project such as PageRank on Twitter dataset using Google BigQuery. 
 
-* This course is freely available online at [https://w4111.github.io](https://w4111.github.io)
 
 
 [**JD.COM INC.**](http://x.jdwl.com/drone/index)    
@@ -44,7 +44,7 @@ Beijing, 2016
 
 * Visualized location and status which was used for a demo in JD drone controlling center
 
-## SELECTED PROJECTS
+## LABRATORY PROJECTS
 
 [**QALite**](https://github.com/zw2497/QAlite)     
 Full-stack Web Application, Cloud Computing    
@@ -100,3 +100,6 @@ UESTC, 2016
 **Miscellaneous**            
 My Chinese name is: 吴志成.      
 In my country, the surname is placed first, followed by the given name.
+
+## IN-CLASS PROJECTS
+

@@ -2,8 +2,8 @@
 ![photo](./0.jpg)
 
 Jiajia Wu    
-PHD Candiate
-Biomedical Engineering
+PHD Candiate\
+Biomedical Engineering\
 Northwestern University
 
 

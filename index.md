@@ -1,9 +1,11 @@
 ## About Me
-![photo](./0.jpg)
+![photo](./2.PNG)
 
 Jiajia Wu    
 PHD Candiate\
 Biomedical Engineering\
+
+
 Northwestern University
 
 

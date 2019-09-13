@@ -36,15 +36,15 @@ GPA 3.7/4.0
 
 ## Publications
 
-[**Characteristics of Transparent, PEDOT:PSS Coated Indium-Tin-Oxide (ITO) Microelectrodes**]("https://github.com/Jia-meow/jia-meow.github.io/raw/master/Characteristics%20of%20Transparent%20PEDOTPSS%20Coated%20ITO%20Microelectrodes.pdf"){:target="_blank"} 
+[**Characteristics of Transparent, PEDOT:PSS Coated Indium-Tin-Oxide (ITO) Microelectrodes**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Characteristics%20of%20Transparent%20PEDOTPSS%20Coated%20ITO%20Microelectrodes.pdf){target="_blank"}
 
-[**Single-channel Opto-neurostimulator: A Review**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Single%20Channel%20Opto-neurostimulators%20A%20Review.pdf){:target="_blank"}
+[**Single-channel Opto-neurostimulator: A Review**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Single%20Channel%20Opto-neurostimulators%20A%20Review.pdf){target="_blank"}
 
-[**Highly Conductive, Transparent, and Anti-reflective PEDOT:PSS/ITO/Ag/ITO on Rarylene-C with Tunable Peak Transmittance**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Manuscript_Weiyang%20Yang_Final%20version.pdf){:target="_blank"}
+[**Highly Conductive, Transparent, and Anti-reflective PEDOT:PSS/ITO/Ag/ITO on Rarylene-C with Tunable Peak Transmittance**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Manuscript_Weiyang%20Yang_Final%20version.pdf){target="_blank"}
 
-[**Transparent and Ultra-flexible PEDOT:PSS/ITO/Ag/ITO on Parylene Thin Films with Tunable Properties**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Transparent%20and%20ultra-flexible%20PEDOTPSS%20ITO%20Ag%20ITO%20on%20Parylene%20thin%20films%20with%20tunable%20properties.pdf){:target="_blank"}
+[**Transparent and Ultra-flexible PEDOT:PSS/ITO/Ag/ITO on Parylene Thin Films with Tunable Properties**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Transparent%20and%20ultra-flexible%20PEDOTPSS%20ITO%20Ag%20ITO%20on%20Parylene%20thin%20films%20with%20tunable%20properties.pdf){target="_blank"}
 
-[**Wireless, Passive Strain Sensor in A Doughnut-shaped Contact Lens for Continuous Non-invasive Self-monitoring of Intraocular Pressure**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Lab%20on%20a%20chip%20Manuscripts_Wireless%2C%20passive%20strain%20sensor%20in%20a%20%20%20doughnut-shaped%20contact%20lens.pdf){:target="_blank"}
+[**Wireless, Passive Strain Sensor in A Doughnut-shaped Contact Lens for Continuous Non-invasive Self-monitoring of Intraocular Pressure**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Lab%20on%20a%20chip%20Manuscripts_Wireless%2C%20passive%20strain%20sensor%20in%20a%20%20%20doughnut-shaped%20contact%20lens.pdf){target="_blank"}
 also submitted to Microsystems & Nanoengineering, Science Advances
 
 ## Work EXPERIENCE

@@ -36,7 +36,9 @@ GPA 3.7/4.0
 
 ## Publications
 
-[**Characteristics of Transparent, PEDOT:PSS Coated Indium-Tin-Oxide (ITO) Microelectrodes**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Characteristics%20of%20Transparent%20PEDOTPSS%20Coated%20ITO%20Microelectrodes.pdf)
+[**Characteristics of Transparent, PEDOT:PSS Coated Indium-Tin-Oxide (ITO) Microelectrodes**]("https://github.com/Jia-meow/jia-meow.github.io/raw/master/Characteristics%20of%20Transparent%20PEDOTPSS%20Coated%20ITO%20Microelectrodes.pdf" target="_blank")
+
+<a href="https://www.w3schools.com/" target="_blank">
 
 [**Single-channel Opto-neurostimulator: A Review**](https://github.com/Jia-meow/jia-meow.github.io/raw/master/Single%20Channel%20Opto-neurostimulators%20A%20Review.pdf)
 

@@ -1,6 +1,11 @@
-title: Jiajia Wu 
+title: John Doe # your name (or website title) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  First description 
+  <br><br>
+  Second description 
+  <br><br>
+  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  
 theme: jekyll-theme-minimal
-show_downloads: true
-google_analytics: UA-134998524-1
-github_url: https://github.com/bs3113
-linkedin_url: https://www.linkedin.com/in/jiajia-wu-3a0715174/
+google_analytics: UA-000000-0 # your Google Analytics tracking ID here

@@ -106,7 +106,7 @@ also submitted to Microsystems & Nanoengineering, Science Advances
 
 **Teaching Assistant Fall 2017**
 
-[ECE280 Electrical Engineering Analysis](https://github.com/Jia-meow/jia-meow.github.io/pdf/ECE280-syllabus-FS17-001.pdf)                                                                                               
+[ECE280 Electrical Engineering Analysis](https://github.com/Jia-meow/jia-meow.github.io/blob/master/pdf/ECE280-syllabus-FS17-001.pdf)                                                                                               
 s
 * Assisted students with MATLAB Problems
 

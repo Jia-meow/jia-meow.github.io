@@ -69,32 +69,32 @@ also submitted to Microsystems & Nanoengineering, Science Advances
 
 **Optogenetic Probes**
 
-![photo](./opto-probe1.png) ![photo](./opto-probe2.png) ![photo](./opto-probe3.png) ![photo](./opto-probe4.png) ![photo](./opto-probe5.png)
+![photo](./images/opto-probe1.png) ![photo](./images/opto-probe2.png) ![photo](./images/opto-probe3.png) ![photo](./images/opto-probe4.png) ![photo](./images/opto-probe5.png)
 
 **BDD Probes**
-![photo](./BDD1.png) ![photo](./BDD2.png) ![photo](./Surgery.png)\
-![photo](./spike.png) ![photo](./spike-distribution.png) ![photo](./spike-classification.png)
+![photo](./images/BDD1.png) ![photo](./images/BDD2.png) ![photo](./images/Surgery.png)\
+![photo](./images/spike.png) ![photo](./images/spike-distribution.png) ![photo](./images/spike-classification.png)
 
 **IOP Sensor**
-![photo](./coil1.png) ![photo](./coil2.png) ![photo](./coil3.png)
+![photo](./images/coil1.png) ![photo](./images/coil2.png) ![photo](./images/coil3.png)
 
 **Microbial Fuel Cell**
-![photo](./MFC1_2.png) ![photo](./MFC2.png) ![photo](./MFC3.png)
+![photo](./images/MFC1_2.png) ![photo](./images/MFC2.png) ![photo](./images/MFC3.png)
 
 **Bio-cell**
-![photo](./Biocell1.jpg) ![photo](./Biocell2.jpg)
+![photo](./images/Biocell1.jpg) ![photo](./images/Biocell2.jpg)
 
 **Carbon Ink Printed Sensor**
-![photo](./CarbonInk.png) ![photo](./CarbonInkGraph1.png) ![photo](./CarbonInkGraph2.png)
+![photo](./images/CarbonInk.png) ![photo](./images/CarbonInkGraph1.png) ![photo](./images/CarbonInkGraph2.png)
 
 **Opto-neurostimulator Review**
-![photo](./review-table.png)
+![photo](./images/review-table.png)
 
 
 ## IN-CLASS PROJECTS
 
 **Cleanroom Microfabrication**
-![photo](./Cleanroom1.png) ![photo](./Cleanroom2.png) ![photo](./Cleanroom3.png)
+![photo](./images/Cleanroom1.png) ![photo](./images/Cleanroom2.png) ![photo](./images/Cleanroom3.png)
 
 
 **Computer Aided Manufacturing**

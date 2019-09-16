@@ -68,27 +68,34 @@ also submitted to Microsystems & Nanoengineering, Science Advances
 ## Work EXPERIENCE
 
 **Optogenetic Probes**
+![photo](./images/1/Document-page-001.jpg)
 
-![photo](./images/1/optogenetic.jpg)
+---
 
 **BDD Probes**
-![photo](./images/1/BDD.jpg)
+![photo](./images/1/Document-page-002.jpg)
+
+---
 
 **IOP Sensor**
-![photo](./images/1/IOP.jpg)
+![photo](./images/1/Document-page-003.jpg)
+
+---
 
 **Microbial Fuel Cell**
-![photo](./images/1/FMC.jpg)
+![photo](./images/1/Document-page-005.jpg)
 
-**Bio-cell**
-![photo](./images/1/biocell.jpg)
+---
 
 **Carbon Ink Printed Sensor**
-![photo](./images/1/carbon.jpg)
+![photo](./images/1/Document-page-004.jpg)
+
+---
 
 **Opto-neurostimulator Review**
-![photo](./images/reveiw-table.png)
+![photo](./images/1/Document-page-006.jpg)
 
+---
 
 ## IN-CLASS PROJECTS
 

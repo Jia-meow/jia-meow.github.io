@@ -114,7 +114,6 @@ also submitted to Microsystems & Nanoengineering, Science Advances
 **Teaching Assistant Fall 2017**
 
 [ECE280 Electrical Engineering Analysis](./pdf/ECE280-syllabus-FS17-001.pdf)                                                                                               
-s
 * Assisted students with MATLAB Problems
 
 * Answered the homework and exam questions during office hour or via email

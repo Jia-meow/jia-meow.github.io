@@ -2,7 +2,41 @@
 
 ---
 
+## Work EXPERIENCE
+
+**Optogenetic Probes**
+![photo](./images/1/Document-page-001.jpg)
+
+---
+
+**BDD Probes**
+![photo](./images/1/Document-page-002.jpg)
+
+---
+
+**IOP Sensor**
+![photo](./images/1/Document-page-003.jpg)
+
+---
+
+**Microbial Fuel Cell**
+![photo](./images/1/Document-page-005.jpg)
+
+---
+
+**Carbon Ink Printed Sensor**
+![photo](./images/1/Document-page-004.jpg)
+
+---
+
+**Opto-neurostimulator Review**
+![photo](./images/1/Document-page-006.jpg)
+
+---
+
+
 ### Publications
+
 
 <!-- [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -43,17 +77,21 @@ also submitted to Microsystems & Nanoengineering, Science Advances
 
 ---
 
+
 ### Technical Skills
+
 
 **Electronics & Computer Lab**
 
 - *Analog & Digital Circuit Design*
+- *Cleanroom Microfabrication*
 - *AutoCAD, NX CAD & 3D printing*
 - *G-Codes & Robotics*
 - *PLC design, PSPICE, VHDL, Cadence Virtuoso (IC, VLSI)*
 - *Keil, Eagle (PCB design)*
 - *MATLAB, C Programming*
 - *Sentaurus Workbench, COMSOL Multiphysics, LabVIEW*
+
 
 **Biology Lab**
 
@@ -62,74 +100,9 @@ also submitted to Microsystems & Nanoengineering, Science Advances
 - *Plate Techniques, Gel Electrophoresis*
 - *PCR*
 - *Restriction Enzyme Digestions*
- 
----
 
-## Work EXPERIENCE
-
-**Optogenetic Probes**
-![photo](./images/1/Document-page-001.jpg)
+![photo](./skills.png)
 
 ---
-
-**BDD Probes**
-![photo](./images/1/Document-page-002.jpg)
-
----
-
-**IOP Sensor**
-![photo](./images/1/Document-page-003.jpg)
-
----
-
-**Microbial Fuel Cell**
-![photo](./images/1/Document-page-005.jpg)
-
----
-
-**Carbon Ink Printed Sensor**
-![photo](./images/1/Document-page-004.jpg)
-
----
-
-**Opto-neurostimulator Review**
-![photo](./images/1/Document-page-006.jpg)
-
----
-
-## IN-CLASS PROJECTS
-
-**Cleanroom Microfabrication**
-![photo](./images/Cleanroom1.png) ![photo](./images/Cleanroom2.png) ![photo](./images/Cleanroom3.png)
-
-
-**Computer Aided Manufacturing**
-
-
-**VLSI**
-
-
-## Activities
-
-**Teaching Assistant Fall 2017**
-
-[ECE280 Electrical Engineering Analysis](./pdf/ECE280-syllabus-FS17-001.pdf)                                                                                               
-* Assisted students with MATLAB Problems
-
-* Answered the homework and exam questions during office hour or via email
-
-**ECE Main Office faculty**
-
-* Managed keys of the study rooms
-
-* Answered the common questions that ECE students have
-
-* Organized the feedback documents from classes
-
-**Campus Animal Resources**
-
-* Fed and controled weight of experimental rodents
-
-* Trained animals to respond to the light
 
 
